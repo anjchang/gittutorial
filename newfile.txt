@@ -1,0 +1,7 @@
+hello this is a new git file
+so far we have
+0. logged into our github account
+1. created a new git repository online at GitHub
+2. Made a folder into the intended directory for our file repository
+3. cd into that directory so that we're working the repository directory
+4. Now we'll save our new file and add it
